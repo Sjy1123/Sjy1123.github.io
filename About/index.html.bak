@@ -3,7 +3,8 @@ date: 2020-03-12 18:13:59
 ---
 <html>
  <body>
-   <h3 color="bule">About</h3>
+   <h3><font color="bule">About</font></h3>
+   <hr>
    <font size="+1"><b>这是什么</b></font>
    <br>
    一个博客网站，记录自己的生活点滴
@@ -14,11 +15,11 @@ date: 2020-03-12 18:13:59
    <br>
    <font size="+1"><b>我是谁</b></font>
    <br>
-   一个在成为码农路上的码畜。<br>
-   也是一个贪财有道，好色有品，博学有识，读书有瘾的追梦人。<br>
-   我的GitHub: https://github.com/Sjy1123<br>
-   我的邮箱: 1272792163@qq.com<br>
+   一个在成为码农路上的码畜<br>
+   也是一个贪财有道，好色有品，博学有识，读书有瘾的追梦人<br>
+   我的GitHub: <font color="bule">https://github.com/Sjy1123</font><br>
+   我的邮箱: <font color="bule">1272792163@qq.com</font><br>
    相逢即是有缘，既然遇见了那就关注一下吧！<br>
-   <p>以后再补。</p>
+   
  </body>
 </html>
