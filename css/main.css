@@ -1510,6 +1510,9 @@ pre .javascript .function {
   font-size: 14px;
   margin-top: 2px;
 }
+.post-wordcount {
+  display: inline-block;
+}
 .post-meta-divider {
   margin: 0 0.5em;
 }
@@ -1826,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffffd0;
+  background: #d60dff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3123,4 +3126,8 @@ pre .javascript .function {
   .pagination {
     margin: 8px 0 0;
   }
+}
+body {
+  background: url("/images/2.jpg");
+  background-attachment: fixed;
 }
